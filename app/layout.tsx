@@ -40,7 +40,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
             <head>
-       
+     <meta name="yandex-verification" content="4126a2a41a2365d3" />  
 <script
   dangerouslySetInnerHTML={{
     __html: `
